@@ -254,7 +254,7 @@ class _PrincipalState extends State<Principal> {
                 ],
             )
           ),
-          //cuarta fila Texto que aparece
+          //cuarta fila Texto que aparece cambiar a que en lugar de aparecer en el container aparezca en consola
           Expanded(
             flex: 4,
             child: Row(
